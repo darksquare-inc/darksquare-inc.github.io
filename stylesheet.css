@@ -1,7 +1,21 @@
-div {
+.left {
 	height: 50px;
 	width: 100px;
 	border: 2px solid black;
 	border-radius: 5px;
-	background-color: #308014;
+	background-color:;
+}
+.middle {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color:;
+}
+.right {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color:;
 }

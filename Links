@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+ <body style = 'background-color:lightgreen'>
+ <head>
+    <ul>
+     <div class='left'><a href=""><li>Click on this</li></a></div>
+    </ul>
+    <ul>
+     <div class='middle'><a href=""><li>TV show wikepedia</li></a></div>
+    </ul>
+    <ul>
+     <div class='right'><a href=""><li>Click on this or else</li></a></div>
+    </ul>
+  </head>
+ <body>
+  <h1>Links!</h1>
+  <h6>It will start soon.</h6>
+  <h6><p><span style='color:blue'>Any minute now...</span></p></h6>
+  <a href="www.andreikarlin.tk"><li>Back</li></a>
+  <a href="www.roblox.net"><li>Roblox</li></a>
+ </body
